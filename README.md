@@ -6,7 +6,7 @@ Description: An infrastructural open-source software project to support the use 
 
 Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://twitter.com/mrchristian99) - https://orcid.org/0000-0002-8579-9717
 
-Hashtags: #semanticpublishing #NFDI4Culture
+Hashtags: #sempub #semanticpublishing #NFDI4Culture
 
 ## Summary
 
