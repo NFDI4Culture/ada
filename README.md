@@ -1,6 +1,6 @@
-# Semantic Publishing
+# ADA Semantic Publishing
 
-Title: Semantic Publishing: The Future Open Textbook
+Title: Semantic Publishing - The Future Open Textbook
 
 Description: An infrastructural open-source software project to support the use of Open Science 'digital objects' in textbooks.
 
