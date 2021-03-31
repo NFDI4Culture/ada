@@ -27,5 +27,6 @@
   
 ### Steps involved in implementation
 
-  - Output a decompressed EPUB archive to GitHub - see
-  - 
+  - What we are replacing: [Jekyll](https://akademie-oeffentliches-gesundheitswesen.github.io/krisenmanagment/), [Hugo and Docsify](https://independent-sage.github.io/Should-Schools-Reopen/#/) 
+  - Output a decompressed EPUB archive and other formats to GitHub - see: https://github.com/TIBHannover/Fidus-Writer-Manual 
+  - Book made here - https://write.handbuch.io/book/
