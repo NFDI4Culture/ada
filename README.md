@@ -17,8 +17,8 @@ Semantic Publishing is a new open-source software research project contributing 
 Background: The project is built on top of work already carried out at the Open Science Lab, TIB on multi-format and multi-channel book publishing, see [Advanced Documennt Architecture (ADA)](https://doi.org/10.5281/zenodo.3626810), [Rapid Health Publishing](https://github.com/TIBHannover/Rapid-Collaborative-Health-Publishing) and [TIB book sprints](https://www.tib.eu/en/research-development/knowledge-and-technology-transfer/services-and-consulting-offered-by-tib/book-sprints).
 
   - Start: 26 October 2020 - NFDI4Culture Internal Kickoff meeting
-  - Initial development setup - TBC
-  - Set out full roadmap - TBC
+  - [development and technology](development.md) - > 31.3.21
+  - [Roadmap](roadmap.md) - > 31.3.21
   - Initiate documentation and RDMP - TBC
   - Select and setup case studies - TBC
   
