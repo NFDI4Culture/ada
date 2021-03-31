@@ -14,6 +14,7 @@ I need to bring across @MurakamiShinyu and @johannesWilm to consult on plans 31.
 
 #### Goals
 
+  - Enable Fidus Writer to output multi-format publication to GitHub: all outstanding issues for MVP are here https://github.com/Health-Sprints/obp/issues?q=is%3Aissue+is%3Aopen+label%3A%22MVP+%CE%B1+Must%22
   - Generate publication website on GitHub pages and GitLab pages
   - Move Markdown to a different position in the workflow (TBC) and replace with EPUB 3.1 XHMTL
   - Introduce standards based Webbook as a framework for conventional multi-format publication, and as extensible framework for semantic/computational/repoducable publications
