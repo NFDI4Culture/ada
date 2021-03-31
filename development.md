@@ -6,6 +6,10 @@
 
   The reason for this Webbook implementation is that a Markdown conversion is not needed at this point in the workflow. That Markdown involves lossy conversion and problems with publication part, e.g., tables, picture captions, etc. Markdown can be part of the workflow - as an authoring format and output format but for our workflow not in this position in the workflow.
   
+## Note on contributors
+
+I need to bring across @MurakamiShinyu and @johannesWilm to consult on plans 31.3.21
+  
 ### What are we trying to achieve and how it works
 
 #### Goals
