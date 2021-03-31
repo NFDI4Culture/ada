@@ -24,9 +24,13 @@ Background: The project is built on top of work already carried out at the Open 
   
 ## Releases, publications and blogosts
 
-### Blogposts
+### Blogposts and history
 
   - Worthington, Simon. 2020. ‘Semantic Publishing: The Future Open Textbook – a Contribution to NFDI4Culture’. TIB-Blog (blog). 10 November 2020. https://blogs.tib.eu/wp/tib/2020/11/10/semantic-publishing-the-future-open-textbook-a-contribution-to-nfdi4culture/.
+
+#### History
+
+The research came out of work done over 2020 on Rapid Publishing in Public Health training related to the COVID pandemic when TIB's book sprint research had to be deployed at speed - nine books were produced over 2020 with over 100 medical professionals taking part. See: https://github.com/TIBHannover/Rapid-Collaborative-Health-Publishing
 
 ## Contributors and credits
 
