@@ -28,7 +28,7 @@
 ### Steps involved in implementation
 
   - What we are replacing: [Jekyll](https://akademie-oeffentliches-gesundheitswesen.github.io/krisenmanagment/), [Hugo and Docsify](https://independent-sage.github.io/Should-Schools-Reopen/#/) 
-  - Output a decompressed EPUB archive and other formats to GitHub - see: https://github.com/TIBHannover/Fidus-Writer-Manual 
+  - Output a decompressed EPUB archive and other formats to GitHub - see: https://github.com/TIBHannover/Fidus-Writer-Manual | https://tibhannover.github.io/Fidus-Writer-Manual/html/index.html | https://tibhannover.github.io/Fidus-Writer-Manual/epub/EPUB/document-nav.xhtml
   - Book made here - https://write.handbuch.io/book/
 
 ## Metdata and metadata distribution
