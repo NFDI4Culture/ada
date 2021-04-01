@@ -44,4 +44,4 @@ I need to bring across @MurakamiShinyu and @johannesWilm to consult on plans 31.
 
 ## Semantic Publishing
 
-
+  - Make a simple KG of publication from EPUB structured metadata using https://rml.io/ - suggestion of @AndréCastro :-)
