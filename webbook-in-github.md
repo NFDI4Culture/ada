@@ -13,3 +13,13 @@ package xmlns="http://www.idpf.org/2007/opf" version="3.0"
 See example XHTML content output: https://github.com/TIBHannover/open-science-guide-of-guides/tree/main/epub/EPUB
 
 ## How we make GitHub Pages at present
+
+  1. Create docs, CSS, covers, metadata in Fidus Writer
+  2. Export HTML to GitHub and merge with a basic template repo - https://github.com/TIBHannover/open-science-guide-of-guides/tree/main/html
+  3. Convert HTML to MD using Cloudconvert https://cloudconvert.com/ - 
+  4. Use Jekyl, Hugo, or Docsify to make a Markdown Github Pages website - Docsify is latest framework used https://docsify.js.org/#/
+  5. Develop Markdown website locally with lots of minor edits
+  6. Serve website from GitHub pages and link to other formats held on GitHub: CSS Typesetting; PDF, EPUB, PoD, sources
+
+## What we want to do
+
