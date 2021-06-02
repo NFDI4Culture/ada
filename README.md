@@ -19,6 +19,7 @@ Background: The project is built on top of work already carried out at the Open 
   - Start: 26 October 2020 - NFDI4Culture Internal Kickoff meeting
   - [Development and technology](development.md) - > 31.3.21
   - [Roadmap](roadmap.md) - > 31.3.21
+  - [Webbook on GitHub - a code specfication](webbook-in-github.md) - 3.6.21
   - Initiate documentation and RDMP - TBC
   - Select and setup case studies - TBC
   
