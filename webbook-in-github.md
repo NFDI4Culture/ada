@@ -31,5 +31,12 @@ Apply the Webbook unoficial standrad and W3C manifest.
 
 Render as a website and have ToC work as menu linking to content headers.
 
+Be able to apply CSS stylesheets, so as to change template style.
+
+Apply CSS template from Fidus Writer or direct from GitHub Template repo.
+
+Have connect to other formats stored in same repo.
+
+Have required metadata and setting inputted.
 
 
