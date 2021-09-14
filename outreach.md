@@ -5,5 +5,5 @@
   - Blogpost 
  - Translation workshop (organiser) - Canada-LATAM Dialogue on Open and inclusive access to research, Santiago de Chile, 8-11 Nov 2021
   - Blogpost
- - 2x short guides with GenR - Citizen Science | Software Citation; CEVOPen - Wikidata and TDM for Citizen Science reader making
+ - 2x short guides with GenR - Citizen Science | Software Citation; CEVOpen - Wikidata and TDM for Citizen Science reader making
  
