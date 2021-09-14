@@ -29,7 +29,7 @@ Background: The project is built on top of work already carried out at the Open 
 
   - Worthington, Simon. 2020. ‘Semantic Publishing: The Future Open Textbook – a Contribution to NFDI4Culture’. TIB-Blog (blog). 10 November 2020. https://blogs.tib.eu/wp/tib/2020/11/10/semantic-publishing-the-future-open-textbook-a-contribution-to-nfdi4culture/.
 
-### Outreach
+### [Outreach](https://github.com/NFDI4Culture/ADA-semantic-publishing/blob/main/outreach.md)
 
 
 
