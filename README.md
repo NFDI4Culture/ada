@@ -1,4 +1,4 @@
-# ADA Semantic Publishing
+# ADA Semantic Publishing Pipeline
 
 Title: Semantic Publishing - The Future Open Textbook
 
