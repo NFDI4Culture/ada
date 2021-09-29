@@ -27,7 +27,7 @@ We want to make websites like this Jekyll site from the decompressed XHNTL of an
 
 Use the EPUB XHTML like so - https://github.com/TIBHannover/open-science-guide-of-guides/tree/main/epub
 
-Apply the Webbook unoficial standrad and W3C manifest.
+Apply the Webbook unoficial standard and W3C manifest.
 
 Render as a website and have ToC work as menu linking to content headers.
 
