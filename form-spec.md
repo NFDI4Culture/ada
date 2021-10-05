@@ -10,6 +10,7 @@ Example of for use of Fidus: Typewiser https://www.typewiser.com/
   - Dev environment - this could be Snap install run by Fidus on internal machine?
   - Idea of structuring of data we want
   - Get hold of Fidus Documentation
+  - Build an outline of the resources needed and work packages
 
 ## Objective
 
