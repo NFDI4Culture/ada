@@ -2,6 +2,8 @@
 
 A workflow guide: processes, task, and systems
 
+Question: What are the similarities in the space of exploration and challenges for 'digitality' (sorry horrible word) between a historical single edition, volume, or collection and the need to digitally catalog such works - and the requirement of a contemporary and new 'born digital' book pubication and the need to make the work fully digital?
+
 ## System options, recommendations:
 
   - Photography: Digital photos and scanning
