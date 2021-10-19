@@ -39,4 +39,6 @@ Have connect to other formats stored in same repo.
 
 Have required metadata and setting inputted.
 
+## Stage 3
 
+Combine W3C Publication Manifest (W3C 2020) https://www.w3.org/TR/pub-manifest/ with WebBook Level 1 (Unofficial Proposal Draft by Daniel Glazman http://glazman.org/e0/webbook.html
