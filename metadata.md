@@ -19,6 +19,7 @@ Notes https://demo.hedgedoc.org/FkiH7-iYRjaUHJi6YE_Mqw
   - Source on Github
   - Multi-format output: EPUB, PDF, PoD
   - Distribute metadata to ISBN, Amazon Europe, Amazon US
+  - Content into tranlation with Weblate
 
 Types
 
