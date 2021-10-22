@@ -39,6 +39,7 @@ Platforms
 
 Distribution targets
 
+  - ONIX
   - ISBN
   - ISSN
   - Datacite
