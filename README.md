@@ -1,6 +1,6 @@
 # ADA Pipeline
 
-Title: ADA Semantic Publishing Pipeline - The Next Generation Book
+Title: ADA Semantic Publishing Pipeline - Next Generation Books
 
 Description: An infrastructural open-source software project to support the single source workflows and pipelines for open science ‘digital objects’ in next generation book publishing.
 
