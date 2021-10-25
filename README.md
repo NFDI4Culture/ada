@@ -4,7 +4,7 @@
 
 Title: Semantic Publishing - The Future Open Textbook
 
-Description: An infrastructural open-source software project to support the use of Open Science 'digital objects' in textbooks.
+Description: An infrastructural open-source software project to support the single source workflows and pipelines for open science ‘digital objects’ in next generation book publishing.
 
 Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://twitter.com/mrchristian99) - https://orcid.org/0000-0002-8579-9717
 
