@@ -1,14 +1,12 @@
-# ADA Semantic Publishing Pipeline
+# ADA Pipeline
 
-*ADA Pipeline*
-
-Title: Semantic Publishing - The Future Open Textbook
+Title: ADA Semantic Publishing Pipeline - The Next Generation Book
 
 Description: An infrastructural open-source software project to support the single source workflows and pipelines for open science ‘digital objects’ in next generation book publishing.
 
 Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://twitter.com/mrchristian99) - https://orcid.org/0000-0002-8579-9717
 
-Hashtags: #sempub #semanticpublishing #NFDI4Culture
+Hashtags: #ADAPipeline #sempub #semanticpublishing #NFDI4Culture
 
 ## Summary
 
