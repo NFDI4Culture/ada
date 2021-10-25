@@ -53,7 +53,7 @@ https://twitter.com/nfdi4culture
 
 ## Copyright and licencing
 
-Content - © 2020 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+Content - © 2020-21 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Code - Semantic Publishing, © 2020 The authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA_infra/blob/master/LICENSE | Source https://github.com/TIBHannover/semantic-publishing
 
