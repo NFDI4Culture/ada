@@ -1,12 +1,12 @@
 # ADA Semantic Publishing Pipeline
 
-(Advanced Document Architecture) 
-
-## Next Generation Books
+&mdash; Next Generation Books
 
 An infrastructural open-source software project to support the single source workflows and pipelines for open science ‘digital objects’ in next generation book publishing.
 
-Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://twitter.com/mrchristian99) - https://orcid.org/0000-0002-8579-9717
+(Advanced Document Architecture) 
+
+Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://twitter.com/mrchristian99) - ORCID https://orcid.org/0000-0002-8579-9717
 
 Hashtags: #ADAPipeline #sempub #semanticpublishing #NFDI4Culture
 
