@@ -1,4 +1,4 @@
-# ADA ADA Semantic Publishing Pipeline
+# ADA Semantic Publishing Pipeline
 
 ## Next Generation Books
 
