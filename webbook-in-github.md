@@ -8,8 +8,8 @@ Over 20 books have been made with over 100 authors.
 
 Here are two example books, one using Jekyll and the other Hugo for website display.
 
-  - Example 1
-  - Example 2
+  - Should Schools Reopen? https://github.com/Independent-SAGE/Should-Schools-Reopen
+  - Krisenmanagement https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment
 
 Our problem is producing Markdown that will work with GitHub pages.
 
