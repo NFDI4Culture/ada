@@ -2,7 +2,7 @@
 
 We have an existing book publishing pipeline, the 'ADA Pipeline' that saves it's output files on GitHub. The pipeline then uses GitHub pages to display a website for a book.
 
-ADA is an open-source pipeline to enable collaborative book authoring and output as multi-format finished publication that have automatic typesetting,  and revisioning, as: website, paginated web, PDF, print-on-demand, eBook, and source. ADA chains together different tools in extensible pipelines: Fidus Writer, Vivliostyle, and GitHub.
+ADA is an open-source pipeline to enable collaborative book authoring and outputs as multi-format finished publication that have automatic typesetting and revisioning, as: website, paginated web, PDF, print-on-demand, eBook, and source. ADA chains together different tools in extensible pipelines: Fidus Writer, Vivliostyle, and GitHub.
 
 Over 20 books have been made with over 100 authors.
 
