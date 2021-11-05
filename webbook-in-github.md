@@ -15,6 +15,8 @@ Our problem is producing Markdown that will work with GitHub pages.
 
 The pipeline outputs a variety of file formats, any of these could be used to tranform to Markdown.
 
+It important to look at these new output files (4 Nov 21) as output file markup has been changed over time.
+
 Formats:
 
   -  HTML as a unified file
@@ -55,9 +57,12 @@ The process could also use some standard web CSS framework as well for styling l
 
 ## What we need the system to do
 
-Uur current manual process and GitHub Pages Hugo use gives us the following features that we need to replace.
+Our current manual process and features of GitHub Pages Hugo gives us the following features that we need to replace in these features.
 
-
+  1. Present the book in the same way the current Hugo setup does - https://health-sprints.github.io/Should-Schools-Reopen/#/report/chapter_0
+  2. Produce a navigation menu from the document headers
+  3. Add title at top of navigation
+  4. 
 
 ## Current workflow
 
