@@ -62,7 +62,10 @@ Our current manual process and features of GitHub Pages Hugo gives us the follow
   1. Present the book in the same way the current Hugo setup does - https://health-sprints.github.io/Should-Schools-Reopen/#/report/chapter_0
   2. Produce a navigation menu from the document headers
   3. Add title at top of navigation
-  4. 
+  4. Be mobile first
+  5. Have a previous, next at the bottom of chapters, which are defined as by H2. This previous, next might not be needed in the unified HTML files, as opposed to other source versions which are multi-file types.
+  6. Have a fixed header set of menus that link to files on GitHub for the different versions: webbook, PDF, eBook, print-on-demand page, GitHub source. These links can be fixed links we have a set directory structure for the book.
+  7. 
 
 ## Current workflow
 
