@@ -1,4 +1,4 @@
-# Creating GitHub Page Pipeline
+# GitHub Pages Pipeline - challenge 
 
 We have an existing book publishing pipeline, the 'ADA Pipeline' that deposits files on GitHub. The pipeline then uses GitHub pages to display a website for a book.
 
