@@ -15,12 +15,15 @@ Our problem is producing Markdown that will work with GitHub pages.
 
 The pipeline outputs a variety of file formats, any of these could be used to tranform to Markdown.
 
-It important to look at these new output files (4 Nov 21) as output file markup has been changed over time.
+It important to look at these new output files (4 Nov 21) as output file markup has been changed over time. Other respositories will have older files with outdated markup.
+
+https://github.com/TIBHannover/ADA-Reference-Publication
 
 Formats:
 
   -  HTML as a unified file
-  -  Format2
+  -  Multifile HTML
+  -  Unzipped EPUB
 
 See files here: 
 
