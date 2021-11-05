@@ -1,3 +1,31 @@
+# Creating GitHub Page Pipeline
+
+We have an existing book publishing pipeline that deposits files on GitHub. The pieline then uses GitHub pages to display a website for a book.
+
+Here are two example books, one using Jekyll and the other Hugo.
+
+  - Example 1
+  - Example 2
+
+Our problem is producing Markdown that will work with GitHub pages.
+
+Pipeline outputs a variety of file formats, any of these could be used to tranform to Markdown.
+
+Formats
+
+  -  Format1
+  -  Format2
+
+See files here:
+
+Ideas for options to solve the problem:
+
+  1. Better Markdown conversion with CI on GitHub
+  2. Use a source file, e.g., a unified single HTML files and render this is GitHub Pages
+
+
+
+
 # Webbook in GitHub: Specification for a small code package
 
 In a nutshell: For the Handbuch.io project we want to replace the use of Markdown on GitHub Pages as an output format and replace it with XHTML. The reason for this change is that the Markdown transformation isn't needed for GitHub Pages output. We will want Markdown for other outputs and possibly as an authoring format.  
