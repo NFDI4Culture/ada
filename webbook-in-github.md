@@ -65,7 +65,7 @@ Our current manual process and features of GitHub Pages Hugo gives us the follow
   4. Be mobile first
   5. Have a previous, next at the bottom of chapters, which are defined as by H2. This previous, next might not be needed in the unified HTML files, as opposed to other source versions which are multi-file types.
   6. Have a fixed header set of menus that link to files on GitHub for the different versions: webbook, PDF, eBook, print-on-demand page, GitHub source. These links can be fixed links we have a set directory structure for the book.
-  7. 
+  7. Adding GitHub Release number and GitHub Version number to the site somehow.
 
 ## Current workflow
 
