@@ -31,7 +31,6 @@ For both options the ADA Pipeline is designed in a way that the user forks a tem
 
 ### Options explained
 
-
 1. Better Markdown conversion with CI on GitHub
 
 We have used a variety of tools to generate markdown but each options has problems. One eample was with R, LINK. 
@@ -46,9 +45,17 @@ For the Hugo theme files need to be placed in a specific directory. For some set
 
 3. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
 
+A more elegant option is to use the unified HTML output as Markdown only gets rendered by to HTML by GitHub Pages.
 
+The idea would be that a piece of Javascript would need to be written to make the navigatio menu we need and to dd other features.
 
-## Details of problem
+This option also does away with a CI process being needed.
+
+The process could also use some standard web CSS framework as well for styling like Bootstrap.
+
+## What we need the system to do
+
+Uur current manual process and GitHub Pages Hugo use gives us the following features that we need to replace.
 
 
 
