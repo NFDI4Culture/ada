@@ -79,7 +79,8 @@ Our current semi-automatic process has following features that we need to replac
 
 ## Current workflow
 
-https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=rapid-publishing-2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1y5zCM9Hp1tYSi2Ar7BeNXRm4nir2kF1v%26export%3Ddownload
+
+[Diagram source](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=rapid-publishing-2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1y5zCM9Hp1tYSi2Ar7BeNXRm4nir2kF1v%26export%3Ddownload)
 
 ## Applications used
 
