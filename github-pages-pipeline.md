@@ -9,6 +9,11 @@ Here are two example books, one using Jekyll and the other Hugo for website disp
   - Should Schools Reopen? – https://github.com/Independent-SAGE/Should-Schools-Reopen
   - Krisenmanagement – https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment
 
+If you would like to try out the system email or DM Simon Worthington, simon.worthington@tib.eu – @mrchristian99
+
+  - Fidus Writer instance – https://write.handbuch.io/
+  - ADA Information – https://github.com/TIBHannover/ADA
+
 ## The problem that needs to solve
 
 Our problem is producing Markdown that will work with GitHub Pages.
