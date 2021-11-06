@@ -1,4 +1,4 @@
-# GitHub Pages Pipeline - challenge 
+# GitHub Pages Pipeline – Challenge 
 
 We have an existing book publishing pipeline, the 'ADA Pipeline' that saves it's output files on GitHub. The pipeline then uses GitHub pages to display a website for a book.
 
