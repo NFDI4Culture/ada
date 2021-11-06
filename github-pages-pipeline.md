@@ -1,21 +1,21 @@
 # GitHub Pages Pipeline – Challenge 
 
-ADA Pipeline is an open-source collaborative book authoring workflow that outputs as a multi-format finished publication, with automatic typesetting , and versioning. The output formats are: website, paginated web, screen PDF, print-on-demand, eBook, and source. ADA chains together different tools in an extensible pipeline, currently including the following key applications: Fidus Writer, Vivliostyle, and GitHub.
+ADA Pipeline is an open-source collaborative book authoring workflow that outputs as a multi-format finished publication, with automatic typesetting, and versioning. The output formats targets are: website, paginated web, screen PDF, print-on-demand PDF, eBook, and source. ADA chains together different tools in as an extensible pipeline, currently including the following key applications: Fidus Writer, Vivliostyle, and GitHub.
 
-Over 20 books have been made with over 100 authors.
+Over 20 books have been made with over 100 authors using ADA.
 
 Here are two example books, one using Jekyll and the other Hugo for website display.
 
-  - Should Schools Reopen? https://github.com/Independent-SAGE/Should-Schools-Reopen
-  - Krisenmanagement https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment
+  - Should Schools Reopen? – https://github.com/Independent-SAGE/Should-Schools-Reopen
+  - Krisenmanagement – https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment
 
-## Problem need to solve
+## The problem that needs to solve
 
-Our problem is producing Markdown that will work with GitHub pages.
+Our problem is producing Markdown that will work with GitHub Pages.
 
-The pipeline outputs a variety of file formats and any of these could be used to tranform to Markdown.
+The pipeline outputs a variety of file formats and any of these could be used for a tranformation to Markdown.
 
-It important to look at these new output file example (4 Nov 21) as output file markup has been changed over time.
+It important to look at these new output file examples ( > 4 Nov 21) as output file markup has been changed over time.
 
 See files here: https://github.com/TIBHannover/ADA-Reference-Publication
 
@@ -31,26 +31,26 @@ Output formats include:
 
 ## Ideas for options to solve the problem
 
-For both options the ADA Pipeline is designed in a way that the user forks a template repository from our master repository and then writes their book source file automatically to the forked repository.
+For both options the ADA Pipeline is designed in a way that the user forks a template repository from our master repository and then writes their book source file automatically to the forked repository. This template repository still need to be made, but can quickly be put together.
 
   1. Better Markdown conversion with CI on GitHub
   2. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
 
 ### Options explained
 
-1. Better Markdown conversion with CI on GitHub
+#### 1. Better Markdown conversion with CI on GitHub
 
-We have used a variety of tools to generate markdown but each options has problems. One eample was with R, LINK. 
+We have used a variety of tools to generate markdown but each options has problems. One eample was with R, 'fidus2GitHub' https://github.com/akademie-oeffentliches-gesundheitswesen/fidus2github 
 
-What we need is a process to take one of our output files and and convert it to Markdown and make it work with a Hugo GitHub Pages template. Currently we use this Theme / Framework NAME and LINK.
+What we need is a process to take one of our output files and and convert it to Markdown and make it work with this framework / theme – Docsify https://docsify.js.org/#/
 
-The idea would be that we find a library for Markdown converstion, have a CI process running on GitHub, then process files and output on for GitHub Pages to read the files.
+The idea would be that we find a library for Markdown transformation, have a CI process running on GitHub, then process files and output on for GitHub Pages to serve the files.
 
 If the user adds new source files to GitHub pages then the CI would be processed and new Markdown files generated.
 
-For the Hugo theme files need to be placed in a specific directory. For some settings of the theme some additional field content needs inputting, this could be done by direct file editing on GitHub.
+For the Docsify theme files need to be placed in a specific directory. For some settings of the theme some additional field content needs inputting, this could be done by direct file editing on GitHub.
 
-3. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
+#### 2. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
 
 A more elegant option is to use the unified HTML output as Markdown only gets rendered by to HTML by GitHub Pages.
 
