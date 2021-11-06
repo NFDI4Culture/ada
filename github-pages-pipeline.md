@@ -52,25 +52,25 @@ For the Docsify theme files need to be placed in a specific directory. For some 
 
 #### 2. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
 
-A more elegant option is to use the unified HTML output as Markdown only gets rendered by to HTML by GitHub Pages.
+A more elegant option is to use the unified HTML output as Markdown only gets rendered back to HTML for display.
 
-The idea would be that a piece of Javascript would need to be written to make the navigatio menu we need and to dd other features.
+The idea would be that a piece of JavaScript would need to be written to make the navigation menu similar to how the different Markdown frameworks to. And we need and a few other features.
 
 This option also does away with a CI process being needed.
 
-The process could also use some standard web CSS framework as well for styling like Bootstrap.
+The process could also use some standard web CSS framework.
 
 ## What we need the system to do
 
-Our current manual process and features of GitHub Pages Hugo gives us the following features that we need to replace in these features.
+Our current semi-automatic process has following features that we need to replace in this new solution to our problem.
 
-  1. Present the book in the same way the current Hugo setup does - https://health-sprints.github.io/Should-Schools-Reopen/#/report/chapter_0
+  1. Present the book in the same way the current Docsity setup does - https://health-sprints.github.io/Should-Schools-Reopen/#/report/chapter_0
   2. Produce a navigation menu from the document headers
   3. Add title at top of navigation
   4. Be mobile first
-  5. Have a previous, next at the bottom of chapters, which are defined as by H2. This previous, next might not be needed in the unified HTML files, as opposed to other source versions which are multi-file types.
-  6. Have a fixed header set of menus that link to files on GitHub for the different versions: webbook, PDF, eBook, print-on-demand page, GitHub source. These links can be fixed links we have a set directory structure for the book.
-  7. Adding GitHub Release number and GitHub Version number to the site somehow.
+  5. Have a previous, next at the bottom of chapters, which are defined as H2 by Fidus Writer. The 'previous, next' might not be needed in the unified HTML files, as opposed to other source versions which are multi-document types.
+  6. Have a fixed header set of menus that link to files on GitHub for the different versions: webbook, PDF, eBook, print-on-demand page, GitHub source, verion history, release history and publisher. These links can mostly be static links as we have a set directory structure for the book.
+  7. Adding GitHub Release number and GitHub Version number added to the site somehow as showing version histories is important to our publishing project. A simple approach here is only to Releases and that way these can be added in book info and metadata by the author.
 
 ## Current workflow
 
