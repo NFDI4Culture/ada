@@ -1,8 +1,6 @@
 # GitHub Pages Pipeline – Challenge 
 
-We have an existing book publishing pipeline, the 'ADA Pipeline' that saves it's output files on GitHub. The pipeline then uses GitHub pages to display a website for a book.
-
-ADA is an open-source pipeline to enable collaborative book authoring and outputs as multi-format finished publication that have automatic typesetting and revisioning, as: website, paginated web, PDF, print-on-demand, eBook, and source. ADA chains together different tools in an extensible pipelines: Fidus Writer, Vivliostyle, and GitHub.
+ADA Pipeline is an open-source collaborative book authoring workflow that outputs as a multi-format finished publication, with automatic typesetting , and versioning. The output formats are: website, paginated web, screen PDF, print-on-demand, eBook, and source. ADA chains together different tools in an extensible pipeline, currently incluing: Fidus Writer, Vivliostyle, and GitHub.
 
 Over 20 books have been made with over 100 authors.
 
@@ -11,21 +9,25 @@ Here are two example books, one using Jekyll and the other Hugo for website disp
   - Should Schools Reopen? https://github.com/Independent-SAGE/Should-Schools-Reopen
   - Krisenmanagement https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment
 
+## Problem need to solve
+
 Our problem is producing Markdown that will work with GitHub pages.
 
-The pipeline outputs a variety of file formats, any of these could be used to tranform to Markdown.
+The pipeline outputs a variety of file formats and any of these could be used to tranform to Markdown.
 
-It important to look at these new output files (4 Nov 21) as output file markup has been changed over time. Other respositories will have older files with outdated markup.
+It important to look at these new output file example (4 Nov 21) as output file markup has been changed over time.
 
-https://github.com/TIBHannover/ADA-Reference-Publication
+See files here: https://github.com/TIBHannover/ADA-Reference-Publication
 
-Formats:
+Other respositories will have older file types with outdated markup.
+
+Output formats include:
 
   -  HTML as a unified file
   -  Multifile HTML
   -  Unzipped EPUB
-
-See files here: 
+  -  EPUB
+  -  LaTeX 
 
 ## Ideas for options to solve the problem
 
