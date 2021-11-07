@@ -106,7 +106,7 @@ Our current semi-automatic process has following features that we need to replac
   - Datacite – DOIs 
   - ORCID – Author PIDs 
   - Thoth – Single source metadata generator / https://thoth.pub/
-  - WikiData – Book Graph / early example of an inputted book – Citizen Science Skilling for Library Staff, Researchers, and the Public –  https://www.wikidata.org/wiki/Q108784094
+  - WikiData – Book Graph / see: Wikidata Books https://www.wikidata.org/wiki/Wikidata:WikiProject_Books - Early example of an inputted book – Citizen Science Skilling for Library Staff, Researchers, and the Public –  https://www.wikidata.org/wiki/Q108784094
   - WikiCommons – Deposit
   - Open Library –  
   - Ingram Spark – 
