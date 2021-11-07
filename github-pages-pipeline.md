@@ -2,7 +2,7 @@
 
 ## The Challenge
 
-
+The challenge we have is to automate the conversion an HTML/XHTML book source into a GitHub Pages website. We have the [example sources](https://github.com/TIBHannover/ADA-Reference-Publication) and [current website](https://github.com/Independent-SAGE/Should-Schools-Reopen) that we want to replicate.
 
 ## About ADA Pipeline software
 
@@ -13,6 +13,8 @@ ADA uses automatic typesetting, and versioning. The output formats targets are: 
 ADA chains together different tools in as an extensible pipeline, currently including the following key applications: Fidus Writer, Vivliostyle, and GitHub.
 
 Over 20 books have been made with over 100 authors using ADA.
+
+### Example book websites
 
 Here are two example books, one using Jekyll and the other Hugo for website display.
 
@@ -31,6 +33,8 @@ Our problem is producing Markdown that will work with GitHub Pages.
 The pipeline outputs a variety of file formats and any of these could be used for a tranformation to Markdown.
 
 It important to look at these new output file examples ( > 4 Nov 21) as output file markup has been changed over time.
+
+### Example sources
 
 See files here: https://github.com/TIBHannover/ADA-Reference-Publication
 
