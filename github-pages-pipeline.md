@@ -2,7 +2,7 @@
 
 ## The Challenge
 
-The challenge we have is to automate the conversion an HTML/XHTML book source into a GitHub Pages website. We have the [example sources](https://github.com/TIBHannover/ADA-Reference-Publication) and [current website](https://github.com/Independent-SAGE/Should-Schools-Reopen) that we want to replicate.
+The challenge we have is to automate the conversion of an HTML/XHTML book source into a GitHub Pages website. We have the [example sources](https://github.com/TIBHannover/ADA-Reference-Publication) and [current website](https://github.com/Independent-SAGE/Should-Schools-Reopen) that we want to replicate.
 
 ## About ADA Pipeline software
 
