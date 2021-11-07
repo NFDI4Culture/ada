@@ -1,5 +1,9 @@
 # GitHub Pages Pipeline – Challenge 
 
+## The Challenge
+
+
+
 ## About ADA Pipeline software
 
 The ADA Pipeline is an open-source collaborative book authoring workflow that generates publication ready outputs as multi-format.
@@ -15,7 +19,7 @@ Here are two example books, one using Jekyll and the other Hugo for website disp
   - Should Schools Reopen? – https://github.com/Independent-SAGE/Should-Schools-Reopen
   - Krisenmanagement – https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment
 
-If you would like to try out the system email or DM Simon Worthington, simon.worthington@tib.eu – @mrchristian99
+If you would like to try out the system email or DM Simon Worthington, simon.worthington@tib.eu – Twitter: @mrchristian99
 
   - Fidus Writer instance – https://write.handbuch.io/
   - ADA Information – https://github.com/TIBHannover/ADA
