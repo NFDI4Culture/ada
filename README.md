@@ -10,7 +10,15 @@ An infrastructural open-source software project to support workflows for open sc
 
 Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://twitter.com/mrchristian99) - ORCID https://orcid.org/0000-0002-8579-9717
 
-Hashtags: #ADAPipeline #sempub #semanticpublishing #NFDI4Culture
+Hashtags: #ADAPipeline 
+
+## Challenges
+
+  - [GitHub Pages Pipeline 6 Nov 2021](github-pages-pipeline.md) 
+
+## News
+
+  - 
 
 ## Summary
 
@@ -21,10 +29,6 @@ Semantic Publishing is a new open-source software research project contributing 
 Background: The project is built on top of work already carried out at the Open Science Lab, TIB on multi-format and multi-channel book publishing, see [Advanced Documennt Architecture (ADA)](https://doi.org/10.5281/zenodo.3626810), [Rapid Health Publishing](https://github.com/TIBHannover/Rapid-Collaborative-Health-Publishing) and [TIB book sprints](https://www.tib.eu/en/research-development/knowledge-and-technology-transfer/services-and-consulting-offered-by-tib/book-sprints).
 
   - Start: 26 October 2020 - NFDI4Culture Internal Kickoff meeting
-
-## Challenges
-
-  - [GitHub Pages Pipeline 6 Nov 2021](github-pages-pipeline.md) 
 
 ### Techstack  
 
