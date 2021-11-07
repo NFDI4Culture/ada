@@ -1,6 +1,12 @@
 # GitHub Pages Pipeline – Challenge 
 
-ADA Pipeline is an open-source collaborative book authoring workflow that outputs as a multi-format finished publication, with automatic typesetting, and versioning. The output formats targets are: website, paginated web, screen PDF, print-on-demand PDF, eBook, and source. ADA chains together different tools in as an extensible pipeline, currently including the following key applications: Fidus Writer, Vivliostyle, and GitHub.
+## About ADA Pipeline software
+
+The ADA Pipeline is an open-source collaborative book authoring workflow that generates publication ready outputs as multi-format.
+
+ADA uses automatic typesetting, and versioning. The output formats targets are: website, paginated web, screen PDF, print-on-demand PDF, eBook, and source. 
+
+ADA chains together different tools in as an extensible pipeline, currently including the following key applications: Fidus Writer, Vivliostyle, and GitHub.
 
 Over 20 books have been made with over 100 authors using ADA.
 
