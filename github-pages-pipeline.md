@@ -6,6 +6,12 @@ The challenge we have is to automate the conversion an HTML/XHTML book source in
 
 ## About ADA Pipeline software
 
+### Mission
+
+An infrastructural open-source software project to support workflows for open science digital objects and improving open standards in multi-format book publishing.
+
+### Software
+
 The ADA Pipeline is an open-source collaborative book authoring workflow that generates publication ready outputs as multi-format.
 
 ADA uses automatic typesetting, and versioning. The output formats targets are: website, paginated web, screen PDF, print-on-demand PDF, eBook, and source. 
