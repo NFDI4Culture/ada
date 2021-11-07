@@ -2,7 +2,7 @@
 
 &mdash; Next Generation Books
 
-An infrastructural open-source software project to support the single source workflows and pipelines for open science ‘digital objects’ in next generation book publishing.
+An infrastructural open-source software project to support single source workflows for open science digital objects in multi-format book publishing.
 
 (Advanced Document Architecture) 
 
