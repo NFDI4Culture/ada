@@ -4,6 +4,12 @@
 
 The challenge we have is to automate the conversion of an HTML/XHTML book source into a GitHub Pages website. We have the [example sources](https://github.com/TIBHannover/ADA-Reference-Publication) and [current website](https://github.com/Independent-SAGE/Should-Schools-Reopen) that we want to replicate.
 
+The preference is for our option 2 solution as this will allow for a W3C HTML complaint GitHub Pages workflow.
+
+Completion of this challenge would mean the ADA Pipeline can fully automate its output to GitHub.
+
+NB: The next challenge will be to implement [WebBook Level 1 Unofficial Proposal Draft](http://www.glazman.org/e0/webbook.html), 2 February 2018, Daniel Glazman.
+
 ## About ADA Pipeline software
 
 ### Mission
@@ -63,7 +69,7 @@ For both options the ADA Pipeline is designed in a way that the user forks a tem
 
 ### Options explained
 
-#### 1. Better Markdown conversion with CI on GitHub
+#### Option 1. Better Markdown conversion with CI on GitHub
 
 We have used a variety of tools to generate markdown but each options has problems. One eample was with R, 'fidus2GitHub' https://github.com/akademie-oeffentliches-gesundheitswesen/fidus2github 
 
@@ -75,7 +81,7 @@ If the user adds new source files to GitHub pages then the CI would be processed
 
 For the Docsify theme files need to be placed in a specific directory. For some settings of the theme some additional field content needs inputting, this could be done by direct file editing on GitHub.
 
-#### 2. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
+#### Option 2. Use a source file, e.g., the unified single HTML files and render this is GitHub Pages
 
 A more elegant option is to use the unified HTML output as Markdown only gets rendered back to HTML for display.
 
