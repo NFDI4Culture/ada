@@ -18,7 +18,9 @@ Hashtags: #ADAPipeline
 
 ## News
 
-  - 
+  - Workshop: Next Generation Books: Mapping Workflows and Tool Sets 17 Nov 2021 - https://github.com/TIBHannover/ADA/wiki/Events
+  - Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y global. Simon Worthington (FORCE11) (English) - A Workshop 8 November 2021 https://github.com/Gen-R/organisation/blob/main/translation-systems-guide.md
+  
 
 ## Summary
 
