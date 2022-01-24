@@ -12,6 +12,10 @@ Contact: Simon Worthington, simon.worthington@tib.eu, [@mrchristian99](https://t
 
 Hashtags: #ADAPipeline 
 
+## ADA Quick Start Guide and Manual
+
+[ADA Guide](https://github.com/TIBHannover/ADA-manual/blob/main/README.md)
+
 ## Challenges
 
   - [GitHub Pages Pipeline 6 Nov 2021](github-pages-pipeline.md) 
