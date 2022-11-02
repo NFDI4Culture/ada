@@ -171,13 +171,13 @@ https://twitter.com/nfdi4culture
 
 ## Copyright and licencing
 
-Content - © 2020-21 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+Content - © 2020-22 The authors. Creative Commons Attribution-ShareAlike 4.0 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Code - Semantic Publishing, © 2020 The authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA_infra/blob/master/LICENSE | Source https://github.com/TIBHannover/semantic-publishing
+Code - ADA Semantic Publishing Pipeline, © 2020-22 The authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA/blob/master/LICENSE | Source https://github.com/TIBHannover/ADA
 
 Data - All data and data sets produced would be CC 0, Public Domain, https://creativecommons.org/publicdomain/zero/1.0/
 
-All fonts and graphics and media production software used on the production would be OSI compliant.
+All fonts and graphics and media production software used on the production are OSI compliant.
 
 FAIR principles would also be applied https://www.go-fair.org/fair-principles/
 
